@@ -1,4 +1,4 @@
-will this version be good to run thru github to my browser javascript:(function() {
+javascript:(function() {
 
     const popupId = "customPopupBrowser";
 
